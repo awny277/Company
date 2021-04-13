@@ -1651,6 +1651,12 @@ a , p , span {
     .right h4 {
         margin-bottom: 10px;
     }
+    .news .news-inp input {
+        font-size: 14px;
+    }
+    .news .news-inp a {
+        width: 75px;
+    }
 }
 /*          end fotter      */
 /*      start up        */
